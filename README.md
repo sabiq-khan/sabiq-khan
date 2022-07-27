@@ -6,4 +6,4 @@ I'm currently looking for work and for projects to contribute to.
 
 Feel free to reach out:  
 - LinkedIn: https://www.linkedin.com/in/sabiq-k-823a4b121/
-- Website: sabiq-khan.github.io
+- Website: https://sabiq-khan.github.io
